@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Vì đã lỡ yêu anh rồi-.- <33333333',
     mess: 'Anh biết mà. iu em nhiều nhiều',
     messDesc: 'Thực sự chỉ muốn nói là iu Vân Anh nhiều hơn hôm qua.',
-    btnAccept: 'Nếu tò mò thì nhấp vào <3',
+    btnAccept: 'Nếu em tò mò thì nhấp vào <3',
     messLink: 'https://www.facebook.com/watch/?ref=saved&v=1841772742667641'
 }
