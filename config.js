@@ -8,7 +8,7 @@ const CONFIG = {
     title: 'Vân Anh có iu anh không?',
     desc: 'Anh hỏi lần nữa em có iu anh không? ',
     btnYes: 'Dạ....Tất nhiên là cóa-.-',
-    btnNo: 'Không, Anh đừng ảo tưởng nữa -.-',
+    btnNo: 'Không, Anh đừng ảo tưởng nữa-.-',
     question:'Em có nhiều người theo đuổi mà sao em lại yêu anh <3',
     btnReply: 'Em trả lời câu trên rồi ấn vô đây nhó <3',
     reply: 'Vì đã lỡ yêu anh rồi-.- <33333333',
