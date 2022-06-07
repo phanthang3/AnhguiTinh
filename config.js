@@ -13,4 +13,3 @@ const CONFIG = {
     messDesc: 'Thực sự chỉ muốn nói là iu Ngọc Mai nhiều hơn hôm qua.',
     btnAccept: 'Nếu em tò mò thì nhấp vào',
     messLink: 'https://www.facebook.com/watch/?ref=saved&v=1841772742667641'
-}
