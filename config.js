@@ -7,7 +7,7 @@ const CONFIG = {
     btnIntro: 'Em ấn đây nha',
     title: 'Ngọc Mai có iu anh không?',
     desc: 'Anh hỏi lần nữa em có iu anh không? ',
-    btnYes: 'Dạ....-.-',
+    btnYes: 'Dạaa...-.-',
     btnNo: 'Không, Anh đừng ảo tưởng-.-',
     question:'Em.có biết là anh say em lắm rồi không',
     btnReply: 'Em trả lời câu trên rồi ấn vô đây nhó <3',
