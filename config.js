@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Chuyến xe nào mà chẳng có điểm dừng,
     Theo đuổi em thì anh chẳng muốn ngưng,
     Chí Phèo lúc say nhớ về Thị Nở,
-    Còn anh lúc nào   nhớ về Ngọc Mai`,
+    Còn anh lúc nào cũng nhớ Ngọc Mai `,
     btnIntro: 'Em ấn đây nha',
     title: 'Ngọc Mai có iu anh không?',
     desc: 'Anh hỏi lần nữa em có iu anh không? ',
