@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Không, Anh đừng ảo tưởng-.-',
     question:'Em.có biết là anh say em lắm rồi không',
     btnReply: 'Em trả lời câu trên rồi ấn vô đây nhó <3',
-    reply: 'Dạaaaaaaa',
+    reply: 'Dạaaaaaaaa',
     mess: 'Anh biết mà',
     messDesc: 'Thực sự chỉ muốn nói là iu Ngọc Mai nhiều hơn bưạ qua.',
     btnAccept: 'Nếu em muốn biết điều anh nói thì ấn vô đây nha',
