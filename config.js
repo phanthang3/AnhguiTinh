@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Em trả lời câu trên rồi ấn vô đây nhó <3',
     reply: 'Dạaaaaaaaaaaaaaaaaaaaaaaa',
     mess: 'Anh biết mà',
-    messDesc: 'Thực sự chỉ muốn nói là iu Lan Hươnng nhiều hơn bưạ qua.',
+    messDesc: 'Quá là tuyệt vời.',
     btnAccept: 'Nếu em muốn biết điều anh nói thì ấn vô đây nha',
     messLink: 'https://www.facebook.com/watch/?ref=saved&v=1841772742667641'
 }
